@@ -1,6 +1,5 @@
 -- MySQL dump 10.13  Distrib 5.1.66, for debian-linux-gnu (x86_64)
 --
--- Host: localhost    Database: func0_bs-project
 -- ------------------------------------------------------
 -- Server version	5.1.66-0+squeeze1
 
