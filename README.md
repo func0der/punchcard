@@ -41,13 +41,13 @@ License
 
 Punchcard is licensed under GPLv2.
 
-Every tool or library included in it is licensed under its own licenses.
+Every tool or library included in it may be licensed under its own license.
 
 
 Warranty
 --------
 
-Absolutly no warranty for this app or its used tools and libraries.
+Absolutly no warranty for this app or its used tools and libraries is given by me.
 
 
 Installation
