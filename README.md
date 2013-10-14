@@ -27,13 +27,27 @@ Requirements
 I used a bunch of external tools and libraries to make the coding as easy and fast as possible.
 I included all of them in the repository to make sure this app is working "out of the box".
 
-Plugins like BlackBeard and Twitter Bootstrap are currently under heavy development and can break backwards compatibility
+Plugins like BlackBeard and Twitter Bootstrap are currently under heavy development and can break backwards compatibility with every commit. So please be careful in case you update them.
 
 - CakePHP 2.3+ (< 3.0 (untested))
 - BlackBeard plugin (https://github.com/bbcrew/Bb) (included as submodule)
 - Twitter Bootstrap plugin (https://github.com/bbcrew/Twb) (included as submodule)
 - FPDI and FPDF_TPL (http://www.setasign.de/products/pdf-php-solutions/fpdi/downloads/)
 - TCPDF (http://www.tcpdf.org/)
+ 
+
+License
+-------
+
+Punchcard is licensed under GPLv2.
+
+Every tool or library included in it is licensed under its own licenses.
+
+
+Warranty
+--------
+
+Absolutly no warranty for this app or its used tools and libraries.
 
 
 Installation
