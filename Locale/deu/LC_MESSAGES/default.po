@@ -1,0 +1,113 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# func0der <incode@func0der.>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-05-15 10:24+0200\n"
+"PO-Revision-Date: 2013-05-15 10:39+0200\n"
+"Last-Translator: func0der <incode@func0der.>\n"
+"Language-Team: German <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: Controller/AppController.php:231
+msgid "Home"
+msgstr "Startseite"
+
+#: Controller/AppController.php:251;300
+msgid "Users"
+msgstr "Benutzer"
+
+#: Controller/AppController.php:262
+msgid "Profile"
+msgstr "Profil"
+
+#: Controller/AppController.php:281
+msgid "Reports"
+msgstr "Tätigkeitsnachweise"
+
+#: Controller/AppController.php:311
+msgid "Departments"
+msgstr "Abteilungen"
+
+#: Controller/AppController.php:328
+msgid "Logout"
+msgstr "Logout"
+
+#: Controller/AppController.php:585
+msgid "Invalid request"
+msgstr "Ungültige Anfrage"
+
+#: Controller/AppController.php:589
+msgid "Changing field %s failed"
+msgstr "Das Verändern des Feldes %s ist fehlgeschlagen."
+
+#: Controller/AppController.php:660
+msgid "Possible security breach. Reloading page."
+msgstr "Möglicher Sicherheitsverstoß. Die Seite wird neu geladen."
+
+#: Plugin/BB/Controller/Component/BbSessionComponent.php:86
+msgid "successMsg"
+msgstr "Erfolgsmeldung"
+
+#: Plugin/BB/Controller/Component/BbSessionComponent.php:91
+msgid "errorMsg"
+msgstr "Fehlermeldung"
+
+#: Plugin/BB/Controller/Component/BbSessionComponent.php:96
+msgid "warningMsg"
+msgstr "Warnung"
+
+#: Plugin/BB/Controller/Component/BbSessionComponent.php:101
+msgid "infoMsg"
+msgstr "Information"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:533
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:240
+msgid "view"
+msgstr "Anzeigen"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:534
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:241
+msgid "view item"
+msgstr "Eintrag anzeigen"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:548
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:259
+msgid "edit"
+msgstr "Editieren"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:549
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:260
+msgid "edit item"
+msgstr "Eintrag editieren"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:563
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:280
+msgid "delete"
+msgstr "Löschen"
+
+#: Plugin/BB/View/Helper/BbTableHelper.php:564
+#: Plugin/Twb/View/Helper/TwbTableHelper.php:281
+msgid "delete item"
+msgstr "Eintrag löschen"
+
+#: Plugin/Twb/View/Helper/TwbFormHelper.php:161
+msgid "save"
+msgstr "Speichern"
+
+#: Plugin/Twb/View/Helper/TwbFormHelper.php:167;173
+msgid "save and exit"
+msgstr "Speicher und verlassen"
+
+#: View/Elements/Layout/NoScript.ctp:3
+msgid ""
+"This application will not run correctly without JavaScript. Please enable it "
+"in your browser."
+msgstr ""
+"Ein fehlerfreies Funktionieren der Anwendung kann ohne JavaScript nicht "
+"garantiert werden. Bitte aktivieren Sie es in Ihrem Browser."

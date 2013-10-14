@@ -1,0 +1,8 @@
+/** Report - VIEW **/
+.reportItem.active{
+	background-color: #EDEDED;
+}
+
+*[id$=ActivityLabel]{
+	min-width: 50%;
+}

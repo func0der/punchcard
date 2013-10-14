@@ -1,0 +1,6 @@
+[submodule "Plugin/BB"]
+	path = Plugin/BB
+	url = https://github.com/bbcrew/BB.git
+[submodule "Plugin/Twb"]
+	path = Plugin/Twb
+	url = https://github.com/bbcrew/Twb.git

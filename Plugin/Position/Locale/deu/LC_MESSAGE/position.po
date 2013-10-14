@@ -1,0 +1,52 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# func0der <incode@func0der.>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-05-15 10:24+0200\n"
+"PO-Revision-Date: 2013-05-15 10:42+0200\n"
+"Last-Translator: func0der <incode@func0der.>\n"
+"Language-Team: German <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: Plugin/Position/Controller/Component/PositionComponent.php:84
+msgid "Invalid %s entry provided."
+msgstr "Ungültiger %s-Eintrag angegeben."
+
+#: Plugin/Position/Controller/Component/PositionComponent.php:99
+msgid "%s successfully moved."
+msgstr "%s ist erfolgreich verschoben worden."
+
+#: Plugin/Position/Controller/Component/PositionComponent.php:102
+msgid "Moving failed."
+msgstr "Verschiebung ist fehlgeschlagen."
+
+#: Plugin/Position/Controller/Component/PositionComponent.php:106
+msgid "Invalid moving direction."
+msgstr "Ungültige Verschiebungsrichtung."
+
+#: Plugin/Position/Model/Behavior/PositionBehavior.php:85
+msgid "Model does not have sort field \""
+msgstr "Model hat kein Sortierfeld."
+
+#: Plugin/Position/Model/Behavior/PositionBehavior.php:93
+msgid "Primary key replacement was not possible. Missing primary key on model."
+msgstr ""
+
+#: Plugin/Position/Model/Behavior/PositionBehavior.php:98
+msgid "Model does not have orientation field \""
+msgstr ""
+
+#: Plugin/Position/Model/Behavior/PositionBehavior.php:105
+msgid ""
+"Invalid position manipulation method. Please use allowed ones or implement \""
+msgstr ""
+
+#: Plugin/Position/Model/Behavior/PositionBehavior.php:229
+msgid "Sort field field index is not given."
+msgstr ""

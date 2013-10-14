@@ -1,0 +1,385 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# func0der <incode@func0der.>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-05-15 10:24+0200\n"
+"PO-Revision-Date: 2013-05-15 10:56+0200\n"
+"Last-Translator: func0der <incode@func0der.>\n"
+"Language-Team: German <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: Plugin/Report/Controller/ActivitiesController.php:60
+msgid "Entry for the given week could not be created."
+msgstr "Eintrag für die angegebene Woche konnte nicht erstellt werden."
+
+#: Plugin/Report/Controller/ActivitiesController.php:77
+msgid "The report item given does not belong to one of your reports."
+msgstr "Der angegeben Tag gehört zu keinem Ihrer Tätigkeitsnachweise."
+
+#: Plugin/Report/Controller/ActivitiesController.php:81
+msgid "Report has already been accepted. Changes are not possible."
+msgstr ""
+"Tätigkeitsnachweis ist bereits angemommen worden. Änderungen sind nicht "
+"möglich."
+
+#: Plugin/Report/Controller/ActivitiesController.php:100
+msgid "Activity has been saved."
+msgstr "Aktivität ist gespeichert worden."
+
+#: Plugin/Report/Controller/ActivitiesController.php:105
+msgid "Your inputs were not accepted. Please check them again."
+msgstr ""
+"Ihre Eingaben sind nicht akzeptiert worden. Bitte prüfen Sie sie erneut."
+
+#: Plugin/Report/Controller/ActivitiesController.php:118
+msgid "Invalid activity"
+msgstr "Ungültige Aktivität."
+
+#: Plugin/Report/Controller/ActivitiesController.php:129
+msgid "Activity deleted."
+msgstr "Aktivität gelöscht"
+
+#: Plugin/Report/Controller/ActivitiesController.php:132
+msgid "Activity deletion failed."
+msgstr "Löschen der Aktivität ist fehlgeschlagen."
+
+#: Plugin/Report/Controller/ActivitiesController.php:136
+msgid "This activity does not belong to you."
+msgstr "Diese Aktivität gehört nicht Ihnen."
+
+#: Plugin/Report/Controller/DepartmentsController.php:29;61;86
+msgid "Invalid department"
+msgstr "Ungültige Abteilung"
+
+#: Plugin/Report/Controller/DepartmentsController.php:44;65
+msgid "The department has been saved"
+msgstr "Die Abteilung ist gespeichert worden."
+
+#: Plugin/Report/Controller/DepartmentsController.php:47;68
+msgid "The department could not be saved. Please, try again."
+msgstr ""
+"Die Abteilung konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+
+#: Plugin/Report/Controller/DepartmentsController.php:90
+msgid "Department deleted"
+msgstr "Abteilung gelöscht"
+
+#: Plugin/Report/Controller/DepartmentsController.php:93
+msgid "Department was not deleted"
+msgstr "Abteilung ist nicht gelöscht worden."
+
+#: Plugin/Report/Controller/ReportsController.php:36
+msgid ""
+"Your inputs were accepted. Please wait, while your are being redirected."
+msgstr ""
+"Ihre Eingaben sind akzeptiert worden. Bitte warten Sie, während Sie "
+"weitergeleitet werden."
+
+#: Plugin/Report/Controller/ReportsController.php:45
+msgid "Your inputs were not accepted. Please check them and try again."
+msgstr ""
+"Ihre Angaben sind nicht akzeptiert worden. Bitte überprüfen Sie sie und "
+"versuchen Sie es erneut."
+
+#: Plugin/Report/Controller/ReportsController.php:162
+msgid "Report has been created."
+msgstr "Tätigkeitsnachweis ist erstellt worden."
+
+#: Plugin/Report/Controller/ReportsController.php:165
+msgid "Report could not be created. Please, try again."
+msgstr ""
+"Tätigkeitsnachweis konnte nicht erstellt werden. Bitte versuchen Sie es "
+"erneut."
+
+#: Plugin/Report/Controller/ReportsController.php:169
+msgid "Report already present"
+msgstr "Tätigkeitsnachweis bereits vorhande."
+
+#: Plugin/Report/Controller/ReportsController.php:184;490;508;683;699;720;736
+msgid "Invalid report."
+msgstr "Ungültiger Tätigkeitsnachweis"
+
+#: Plugin/Report/Controller/ReportsController.php:202
+msgid "This report was not yet accepted."
+msgstr "Dieser Tätigkeitsnachweis ist nicht angenommen worden."
+
+#: Plugin/Report/Controller/ReportsController.php:309
+msgid "Report for week %s in year %s"
+msgstr "Tätigkeitsnachweis für Woche %s in Jahr %s"
+
+#: Plugin/Report/Controller/ReportsController.php:458
+msgid "Report accepted."
+msgstr "Tätigkeitsnachweis angenommen"
+
+#: Plugin/Report/Controller/ReportsController.php:514
+msgid "Report has been successfully (un-)published."
+msgstr "Tätigkeitsnachweis ist erfolgreich (nicht mehr) freigeben worden."
+
+#: Plugin/Report/Controller/ReportsController.php:517
+msgid "There has been an error (un-)publishing the report."
+msgstr ""
+"Es ist ein Fehler bei der Änderung Ihres Tätigkeitsnachweis aufgetreten."
+
+#: Plugin/Report/Controller/ReportsController.php:583;604
+msgid "Invalid report"
+msgstr "Ungültiger Tätigkeitsnachweis"
+
+#: Plugin/Report/Controller/ReportsController.php:629
+msgid "Comments have been saved and report has been "
+msgstr ""
+
+#: Plugin/Report/Controller/ReportsController.php:636
+msgid "There has been an error "
+msgstr ""
+
+#: Plugin/Report/Controller/ReportsController.php:640
+msgid "Comments has been successfully saved."
+msgstr "Commentag sind erfolgreich gespeichert worden."
+
+#: Plugin/Report/Controller/ReportsController.php:650
+msgid "There has been an error saving the comments."
+msgstr "Es ist ein Fehler beim Speichern der Kommentag aufgetreten."
+
+#: Plugin/Report/Controller/ReportsController.php:654
+msgid "This report has not been published yet. Your changes will not be saved."
+msgstr ""
+"Dieser Tätigkeitsnachweis ist nicht freigegeben worden. Ihre Änderungen "
+"werden nicht gespeichert."
+
+#: Plugin/Report/Controller/ReportsController.php:703
+msgid "Report has been successfully accepted."
+msgstr "Tätigkeitsnachweis ist erfolgreich angenommen worden."
+
+#: Plugin/Report/Controller/ReportsController.php:706
+msgid "There has been an error accepting the report."
+msgstr "Es ist ein Fehler bei der Annahme des Tätigkeitsnachweis aufgetreten."
+
+#: Plugin/Report/Controller/ReportsController.php:742
+msgid "Report has been successfully rejected."
+msgstr "Tätigkeitsnachweis ist erfolgreich abgelehnt worden."
+
+#: Plugin/Report/Controller/ReportsController.php:745
+msgid "There has been an error rejecting the report."
+msgstr "Es ist ein Fehler bei Ablehnung des Tätigkeitsnachweis aufgetreten."
+
+#: Plugin/Report/View/Departments/admin_add.ctp:5
+msgid "Admin Add Department"
+msgstr "Abteilung hinzufügen"
+
+#: Plugin/Report/View/Departments/admin_add.ctp:11
+#: Plugin/Report/View/Departments/admin_edit.ctp:12
+#: Plugin/Report/View/Reports/index.ctp:40
+#: Plugin/Report/View/Reports/instructor_view.ctp:186
+#: Plugin/Report/View/Reports/view.ctp:236
+msgid "Submit"
+msgstr "Speichern"
+
+#: Plugin/Report/View/Departments/admin_edit.ctp:5
+msgid "Admin Edit Department"
+msgstr "Abteilung bearbeiten"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:3
+msgid "Departments"
+msgstr "Abteilungen"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:9;39
+#: Plugin/Report/View/Departments/admin_view.ctp:20
+#: Plugin/Report/View/Reports/index.ctp:59
+#: Plugin/Report/View/Reports/instructor_index.ctp:20
+msgid "Actions"
+msgstr "Aktionen"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:17
+msgid "View"
+msgstr "Anzeigen"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:18
+#: Plugin/Report/View/Departments/admin_view.ctp:30
+#: Plugin/Report/View/Reports/ajax_report_items.ctp:35;73
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:19
+#: Plugin/Report/View/Reports/ajax_report_items.ctp:81
+msgid "Delete"
+msgstr "Löschen"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:19
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sind Sie sicher, dass Sie den Eintrag Nr. %s löschen wollen?"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:27
+#: Plugin/Report/View/Reports/index.ctp:118
+#: Plugin/Report/View/Reports/instructor_index.ctp:49
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/Report/View/Departments/admin_index.ctp:32
+#: Plugin/Report/View/Reports/index.ctp:123
+#: Plugin/Report/View/Reports/instructor_index.ctp:54
+msgid "previous"
+msgstr "voherige"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:34
+#: Plugin/Report/View/Reports/index.ctp:125
+#: Plugin/Report/View/Reports/instructor_index.ctp:56
+msgid "next"
+msgstr "nächste"
+
+#: Plugin/Report/View/Departments/admin_index.ctp:41
+msgid "New Department"
+msgstr "Neue Abteilung"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:3
+msgid "Department"
+msgstr "Abteilung"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:5
+msgid "Label"
+msgstr "Label"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:13
+msgid "Related Users"
+msgstr "Zugehörige Benutzer"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:17
+msgid "Email"
+msgstr "E-Mail"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:18
+msgid "Forename"
+msgstr "Vorname"
+
+#: Plugin/Report/View/Departments/admin_view.ctp:19
+msgid "Surname"
+msgstr "Nachname"
+
+#: Plugin/Report/View/Elements/DateRepresentation.ctp:4
+msgid "Today"
+msgstr "Heute"
+
+#: Plugin/Report/View/Elements/DateRepresentation.ctp:7
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: Plugin/Report/View/Elements/ReportStatus.ctp:3
+msgid "Accepted"
+msgstr "Angenommen"
+
+#: Plugin/Report/View/Elements/ReportStatus.ctp:6
+msgid "Waiting for review"
+msgstr "Nachprüfung wird erwartet"
+
+#: Plugin/Report/View/Elements/ReportStatus.ctp:9
+msgid "Published"
+msgstr "Freigegeben"
+
+#: Plugin/Report/View/Elements/ReportStatus.ctp:12
+msgid "Not published"
+msgstr "Nicht freigegeben"
+
+#: Plugin/Report/View/Reports/ajax_report_items.ctp:104
+#: Plugin/Report/View/Reports/instructor_view.ctp:130
+msgid "There are currently no activities for this day."
+msgstr "Es sind keine Aktivitäten für diesen Tag verfügbar."
+
+#: Plugin/Report/View/Reports/ajax_report_items.ctp:133
+msgid "There are currently no entries for this week."
+msgstr "Es sind keine Einträge für diese Woche verfügbar."
+
+#: Plugin/Report/View/Reports/index.ctp:5
+msgid "View a specific week"
+msgstr "Zeige bestimmte Woche"
+
+#: Plugin/Report/View/Reports/index.ctp:45
+#: Plugin/Report/View/Reports/instructor_index.ctp:3
+#: View/Elements/Layout/Navigation.ctp:6
+msgid "Reports"
+msgstr "Tätigkeitsnachweise"
+
+#: Plugin/Report/View/Reports/index.ctp:53
+#: Plugin/Report/View/Reports/instructor_index.ctp:11
+msgid "Report"
+msgstr "Tätigkeitsnachweis"
+
+#: Plugin/Report/View/Reports/index.ctp:85
+msgid "Yes"
+msgstr "Ja"
+
+#: Plugin/Report/View/Reports/index.ctp:86
+msgid "No"
+msgstr "Nein"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:6
+#: Plugin/Report/View/Reports/view.ctp:9
+msgid "Week %s in %s"
+msgstr "Woche %s in %s"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:16
+msgid "by %s"
+msgstr "von %s"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:28
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:29
+msgid "Accept"
+msgstr "Annehmen"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:52
+msgid "Department: %s"
+msgstr "Abteilung: %s"
+
+#: Plugin/Report/View/Reports/instructor_view.ctp:188
+#: Plugin/Report/View/Reports/view.ctp:24
+msgid "No entries for week %s in year %s."
+msgstr "Keine Einträge für Woche %s in Jahr %s"
+
+#: Plugin/Report/View/Reports/view.ctp:65;68
+msgid "Choose a department"
+msgstr "Abteilung wählen"
+
+#: Plugin/Report/View/Reports/view.ctp:80
+msgid "Create report"
+msgstr "Tätigkeitsnachweis erstellen"
+
+#: Plugin/Report/View/Reports/view.ctp:156
+msgid "Unpublish"
+msgstr "Freigabe zurückziehen"
+
+#: Plugin/Report/View/Reports/view.ctp:157
+msgid "Publish"
+msgstr "Freigeben"
+
+#: Plugin/Report/View/Reports/view.ctp:221
+msgid "Task"
+msgstr "Aktivität"
+
+#: Plugin/Report/View/Reports/view.ctp:222
+msgid "Enter a task"
+msgstr "Aktivität eingeben"
+
+#: Plugin/Report/View/Reports/view.ctp:230
+msgid "Duration"
+msgstr "Dauer"
+
+#: Plugin/Report/View/Reports/view.ctp:232
+msgid "hour(s)"
+msgstr "Stunde(n)"
+
+#: Plugin/User/View/Users/instructor_profile.ctp:48
+msgid ""
+"If you upload a new signature, please, upload both, certificate and image, "
+"at the same time"
+msgstr ""
+"Wenn Sie eine neue Signatur hochladen wollen, bitte laden Sie sowohl das "
+"Zertifikat als auch das Bild neu hoch."

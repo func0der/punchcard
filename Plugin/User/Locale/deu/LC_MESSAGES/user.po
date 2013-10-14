@@ -1,0 +1,147 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# func0der <incode@func0der.>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-05-15 10:24+0200\n"
+"PO-Revision-Date: 2013-05-15 10:59+0200\n"
+"Last-Translator: func0der <incode@func0der.>\n"
+"Language-Team: German <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: Plugin/User/Controller/UsersController.php:161;185;235;287;340;365;444
+msgid "The user has been saved"
+msgstr "Der Benutzer ist gespeichert worden."
+
+#: Plugin/User/Controller/UsersController.php:164;188;238;291;343;368;448
+msgid "The user could not be saved. Please, try again."
+msgstr "Der Benutzer konnte nicht gespeichert werden."
+
+#: Plugin/User/Controller/UsersController.php:178;271;308;357;406;428
+msgid "Invalid user"
+msgstr "Ungültiger Benutzer"
+
+#: Plugin/User/Controller/UsersController.php:231
+msgid "The user and certificate has been saved"
+msgstr "Der Benutzer und das Zertifikat sind gespeichert worden."
+
+#: Plugin/User/Controller/UsersController.php:312;410
+msgid "User deleted"
+msgstr "Benutzer gelöscht"
+
+#: Plugin/User/Controller/UsersController.php:315;413
+msgid "User was not deleted"
+msgstr "Benutzer ist nicht gelöscht worden"
+
+#: Plugin/User/View/Users/admin_add.ctp:5
+#: Plugin/User/View/Users/instructor_add.ctp:5
+msgid "Instructor Add User"
+msgstr "Benutzer hinzufügen"
+
+#: Plugin/User/View/Users/admin_add.ctp:19
+#: Plugin/User/View/Users/admin_change_password.ctp:22
+#: Plugin/User/View/Users/admin_edit.ctp:19
+#: Plugin/User/View/Users/instructor_add.ctp:15
+#: Plugin/User/View/Users/instructor_change_password.ctp:22
+#: Plugin/User/View/Users/instructor_edit.ctp:15
+#: Plugin/User/View/Users/instructor_profile.ctp:52
+#: Plugin/User/View/Users/login.ctp:8
+msgid "Submit"
+msgstr "Speichern"
+
+#: Plugin/User/View/Users/admin_change_password.ctp:5
+#: Plugin/User/View/Users/instructor_change_password.ctp:5
+msgid "Instructor Change User Password"
+msgstr "Passwort ändern"
+
+#: Plugin/User/View/Users/admin_change_password.ctp:25
+#: Plugin/User/View/Users/admin_index.ctp:11;47
+#: Plugin/User/View/Users/instructor_index.ctp:11;47
+msgid "Actions"
+msgstr "Aktionen"
+
+#: Plugin/User/View/Users/admin_change_password.ctp:27
+msgid "List Users"
+msgstr "Benutzer auflisten"
+
+#: Plugin/User/View/Users/admin_edit.ctp:5
+#: Plugin/User/View/Users/instructor_edit.ctp:5
+msgid "Instructor Edit User"
+msgstr "Benutzer bearbeiten"
+
+#: Plugin/User/View/Users/admin_index.ctp:3
+#: Plugin/User/View/Users/instructor_index.ctp:3
+msgid "Users"
+msgstr "Benutzer"
+
+#: Plugin/User/View/Users/admin_index.ctp:25
+#: Plugin/User/View/Users/instructor_index.ctp:25
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: Plugin/User/View/Users/admin_index.ctp:26
+#: Plugin/User/View/Users/instructor_index.ctp:26
+#: Plugin/User/View/Users/instructor_profile.ctp:20
+msgid "Change password"
+msgstr "Passwort ändern"
+
+#: Plugin/User/View/Users/admin_index.ctp:27
+#: Plugin/User/View/Users/instructor_index.ctp:27
+msgid "Delete"
+msgstr "Löschen"
+
+#: Plugin/User/View/Users/admin_index.ctp:27
+#: Plugin/User/View/Users/instructor_index.ctp:27
+msgid "Are you sure you want to delete # %s?"
+msgstr "Sind Sie sicher, dass Sie den Eintrag Nr. %s löschen wollen?"
+
+#: Plugin/User/View/Users/admin_index.ctp:35
+#: Plugin/User/View/Users/instructor_index.ctp:35
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: Plugin/User/View/Users/admin_index.ctp:40
+#: Plugin/User/View/Users/instructor_index.ctp:40
+msgid "previous"
+msgstr "voherige"
+
+#: Plugin/User/View/Users/admin_index.ctp:42
+#: Plugin/User/View/Users/instructor_index.ctp:42
+msgid "next"
+msgstr "nächste"
+
+#: Plugin/User/View/Users/admin_index.ctp:49
+#: Plugin/User/View/Users/instructor_index.ctp:49
+msgid "New User"
+msgstr "Neuer Benutzer"
+
+#: Plugin/User/View/Users/instructor_profile.ctp:12
+msgid "Instructor Edit Profile"
+msgstr "Profil bearbeiten"
+
+#: Plugin/User/View/Users/instructor_profile.ctp:32;40
+msgid "Already uploaded."
+msgstr "Bereits hochgeladen"
+
+#: Plugin/User/View/Users/instructor_profile.ctp:33
+msgid "Signature certificate"
+msgstr "Signaturzertifikat"
+
+#: Plugin/User/View/Users/instructor_profile.ctp:41
+msgid "Signature image"
+msgstr "Signaturbild"
+
+#: Plugin/User/Controller/UsersController.php:65
+msgid "Login successful"
+msgstr "Login erfolgreich"
+
+#: Plugin/User/Controller/UsersController.php:70
+msgid "Email or password is wrong."
+msgstr "E-Mail oder Passwort ist falsch."
